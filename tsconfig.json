@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // rest options remain same
+    "esModuleInterop": true
+  }
+}
