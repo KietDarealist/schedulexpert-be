@@ -1,6 +1,10 @@
 {
   "compilerOptions": {
+    "outDir": "./dist",
+    "esModuleInterop": true,
     // rest options remain same
-    "esModuleInterop": true
+    "module": "es2022",
+    "target": "ES2017",
+    "moduleResolution": "Node16"
   }
 }
