@@ -5,6 +5,8 @@
     // rest options remain same
     "module": "es2022",
     "target": "ES2017",
-    "moduleResolution": "Node16"
+    "moduleResolution": "Node16",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   }
 }
